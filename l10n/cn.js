@@ -1,7 +1,6 @@
 {
-
-"header":{
-  "navbar" : {
+  "header":{
+  "navbar": {
     "UPLOAD" : "Caricare",
     "new" : {
       "NEW" : "Nuovo",
@@ -15,10 +14,11 @@
 },
 "aside" : {
   "nav" : {
-    "HEADER" : "Navigazione",
-    "DASHBOARD" : "Cruscotto",
-    "CALENDAR" : "Calendario",
-    "EMAIL" : "Email",
+    "HEADER" : "菜单",
+    "DASHBOARD" : "仪表",
+    "DASHBOARD1" : "仪表一",
+    "CALENDAR" : "日程",
+    "EMAIL" : "电子邮件",
     "WIDGETS" : "Widgets",
     "components" : {
       "COMPONENTS" : "Componenti",
