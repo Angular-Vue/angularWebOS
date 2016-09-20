@@ -17,6 +17,7 @@
   "nav" : {
     "HEADER" : "Navigazione",
     "DASHBOARD" : "Cruscotto",
+        "DASHBOARD1" : "DASHBOARD1",
     "CALENDAR" : "Calendario",
     "EMAIL" : "Email",
     "WIDGETS" : "Widgets",

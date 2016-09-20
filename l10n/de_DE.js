@@ -17,6 +17,7 @@
   "nav" : {
     "HEADER" : "Navigation",
     "DASHBOARD" : "Armaturenbrett",
+    "DASHBOARD1" : "DASHBOARD1",
     "CALENDAR" : "Kalender",
     "EMAIL" : "E-Mail",
     "WIDGETS" : "Widgets",
